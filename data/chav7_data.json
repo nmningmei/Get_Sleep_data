@@ -1,0 +1,3932 @@
+{
+ "data": [
+  {
+   "id": "googledrive/.ipynb_checkpoints/",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "334806"
+    },
+    "kind": "folder",
+    "name": ".ipynb_checkpoints",
+    "path": "/.ipynb_checkpoints/",
+    "provider": "googledrive",
+    "materialized": "/.ipynb_checkpoints/",
+    "etag": "abc52e10b066a90449843d04887cc151d31d9423510754825da97eb066cf1c85",
+    "resource": "chav7",
+    "size": null,
+    "sizeInt": null
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/.ipynb_checkpoints/",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/.ipynb_checkpoints/?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/.ipynb_checkpoints/",
+    "new_folder": "https://files.osf.io/v1/resources/chav7/providers/googledrive/.ipynb_checkpoints/?kind=folder"
+   }
+  },
+  {
+   "id": "googledrive/README.txt",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "370164",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CMXRSWlhjMFpiamM/view?usp=drivesdk",
+     "hashes": {
+      "md5": "a81f32df351dda0c90290c2efd11e919"
+     }
+    },
+    "kind": "file",
+    "name": "README.txt",
+    "path": "/README.txt",
+    "provider": "googledrive",
+    "materialized": "/README.txt",
+    "etag": "b716f5460c98ebdb43800f95bffd36cc6eedde5018943f0bb6a9cf1889c01a45",
+    "contentType": "text/plain",
+    "modified": "2016-08-11T19:22:02.161Z",
+    "modified_utc": "2016-08-11T19:22:02+00:00",
+    "created_utc": "2016-08-05T02:25:44+00:00",
+    "size": "2240",
+    "sizeInt": 2240,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/README.txt",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/README.txt?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/README.txt",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/README.txt"
+   }
+  },
+  {
+   "id": "googledrive/HeadMap64ch.pdf",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333566",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CSF80VkdGLTc3S28/view?usp=drivesdk",
+     "hashes": {
+      "md5": "59618af7bc63cc98ba33a198f24f9f0f"
+     }
+    },
+    "kind": "file",
+    "name": "HeadMap64ch.pdf",
+    "path": "/HeadMap64ch.pdf",
+    "provider": "googledrive",
+    "materialized": "/HeadMap64ch.pdf",
+    "etag": "943c88071b30bc7afaead8e1ce322fba12fbfaa11cb8e5a6eb04b8fcb4986bd1",
+    "contentType": "application/pdf",
+    "modified": "2016-08-08T20:25:04.000Z",
+    "modified_utc": "2016-08-08T20:25:04+00:00",
+    "created_utc": "2016-08-09T15:49:47+00:00",
+    "size": "303342",
+    "sizeInt": 303342,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/HeadMap64ch.pdf",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/HeadMap64ch.pdf?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/HeadMap64ch.pdf",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/HeadMap64ch.pdf"
+   }
+  },
+  {
+   "id": "googledrive/suj23_l5nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333109",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CQkNKZXJYV0ZudDQ/view?usp=drivesdk",
+     "hashes": {
+      "md5": "3d2e2b942249b50d04952962c7cb8ea1"
+     }
+    },
+    "kind": "file",
+    "name": "suj23_l5nap_day2.vmrk",
+    "path": "/suj23_l5nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj23_l5nap_day2.vmrk",
+    "etag": "a9c436cb4268c420ef40e26a8bf9f68c84b76fd95eeb3a943e7131dd8a05e0d2",
+    "contentType": "application/octet-stream",
+    "modified": "2016-08-05T02:52:31.000Z",
+    "modified_utc": "2016-08-05T02:52:31+00:00",
+    "created_utc": "2016-08-05T04:09:55+00:00",
+    "size": "535",
+    "sizeInt": 535,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l5nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l5nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l5nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l5nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj12_l2nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332894",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CMEFua2pFWm8xMms/view?usp=drivesdk",
+     "hashes": {
+      "md5": "04bef96e4ba2dba2a370434f6e275650"
+     }
+    },
+    "kind": "file",
+    "name": "suj12_l2nap_day1.eeg",
+    "path": "/suj12_l2nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj12_l2nap_day1.eeg",
+    "etag": "ffd890d183593dc5892fe3e89c81c9eb571374ea2b4aebe013c4c81329a3f8fb",
+    "contentType": "application/octet-stream",
+    "modified": "2016-08-05T02:28:19.000Z",
+    "modified_utc": "2016-08-05T02:28:19+00:00",
+    "created_utc": "2016-08-05T02:40:24+00:00",
+    "size": "463500800",
+    "sizeInt": 463500800,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l2nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l2nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l2nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l2nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj30_l5nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333403",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CekwxaHAxTkFRTnc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "99974d35294b90a7bac804c00f1e34c9"
+     }
+    },
+    "kind": "file",
+    "name": "suj30_l5nap_day2.eeg",
+    "path": "/suj30_l5nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj30_l5nap_day2.eeg",
+    "etag": "3ccfd85e605230ad9193b0e70dfc2ecef54096cc79f784605ffe9456762cb36e",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-12T19:06:22.000Z",
+    "modified_utc": "2016-07-12T19:06:22+00:00",
+    "created_utc": "2016-08-09T00:33:19+00:00",
+    "size": "470425600",
+    "sizeInt": 470425600,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l5nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l5nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l5nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l5nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj30_l5nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333205",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13Cdlhfbldrbl9yRlU/view?usp=drivesdk",
+     "hashes": {
+      "md5": "f6ad660a600adca44c1ad2521840fc91"
+     }
+    },
+    "kind": "file",
+    "name": "suj30_l5nap_day2.vmrk",
+    "path": "/suj30_l5nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj30_l5nap_day2.vmrk",
+    "etag": "35ab4e472a6c7dc7e806b399ed13a290a268e11ca7e5ae083f6db206f1f1c307",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-12T18:35:48.000Z",
+    "modified_utc": "2016-07-12T18:35:48+00:00",
+    "created_utc": "2016-08-05T04:48:33+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l5nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l5nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l5nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l5nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj30_l5nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333208",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CNXpxQkpJUThURE0/view?usp=drivesdk",
+     "hashes": {
+      "md5": "76c654965f934759348370f4cea3db29"
+     }
+    },
+    "kind": "file",
+    "name": "suj30_l5nap_day2.vhdr",
+    "path": "/suj30_l5nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj30_l5nap_day2.vhdr",
+    "etag": "028f075b676680e9bfff56a1b712c803ced0efe0522b2d774d244181b2ba7fc0",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-12T18:35:46.000Z",
+    "modified_utc": "2016-07-12T18:35:46+00:00",
+    "created_utc": "2016-08-05T04:48:34+00:00",
+    "size": "3226",
+    "sizeInt": 3226,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l5nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l5nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l5nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l5nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj32_l5nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333393",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13Cdll2UlVlYklVeGc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "be0f96659da4e85030149223869c2b98"
+     }
+    },
+    "kind": "file",
+    "name": "suj32_l5nap_day2.eeg",
+    "path": "/suj32_l5nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj32_l5nap_day2.eeg",
+    "etag": "1c46b9b3a13dafc30a46d4f6978723b4704cbc28ac75fcc788e584f4b83b3049",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-12T16:33:12.000Z",
+    "modified_utc": "2016-07-12T16:33:12+00:00",
+    "created_utc": "2016-08-09T00:23:38+00:00",
+    "size": "468492800",
+    "sizeInt": 468492800,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l5nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l5nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l5nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l5nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj32_l5nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333227",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CNGYzWUQ3V2I2RFE/view?usp=drivesdk",
+     "hashes": {
+      "md5": "93589ee8eb0b2678a76ef97a071e0731"
+     }
+    },
+    "kind": "file",
+    "name": "suj32_l5nap_day2.vmrk",
+    "path": "/suj32_l5nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj32_l5nap_day2.vmrk",
+    "etag": "2bbacc1341df2e4d9c95d096bc771ee8cb7fb58f3eac06f4d5216bc886cd650f",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-12T16:02:44.000Z",
+    "modified_utc": "2016-07-12T16:02:44+00:00",
+    "created_utc": "2016-08-05T04:51:15+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l5nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l5nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l5nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l5nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj32_l5nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333230",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CUDFzSEZiR0VXbzQ/view?usp=drivesdk",
+     "hashes": {
+      "md5": "a56f1a3075dade07208921bf85d97079"
+     }
+    },
+    "kind": "file",
+    "name": "suj32_l5nap_day2.vhdr",
+    "path": "/suj32_l5nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj32_l5nap_day2.vhdr",
+    "etag": "d72672111c3ab7c33359e7e5a9478e4d59a710c3774014283842bc600f34bba0",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-12T16:02:42.000Z",
+    "modified_utc": "2016-07-12T16:02:42+00:00",
+    "created_utc": "2016-08-05T04:51:17+00:00",
+    "size": "3235",
+    "sizeInt": 3235,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l5nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l5nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l5nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l5nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj32_l2nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333399",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CWlFtQ3BVbDZkakU/view?usp=drivesdk",
+     "hashes": {
+      "md5": "34684ca6ad30f3827c60945ee3c982ba"
+     }
+    },
+    "kind": "file",
+    "name": "suj32_l2nap_day1.eeg",
+    "path": "/suj32_l2nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj32_l2nap_day1.eeg",
+    "etag": "d61b135038fc7ec8bab5ca9d54bfdd3f27ca7c2ab75add1bb4b65a250bc936dd",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-11T16:37:30.000Z",
+    "modified_utc": "2016-07-11T16:37:30+00:00",
+    "created_utc": "2016-08-09T00:30:25+00:00",
+    "size": "461798400",
+    "sizeInt": 461798400,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l2nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l2nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l2nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l2nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj32_l2nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333221",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13Cb3BlaHZWZElESUE/view?usp=drivesdk",
+     "hashes": {
+      "md5": "431896f5e7d8eb979b26c3380a14a74e"
+     }
+    },
+    "kind": "file",
+    "name": "suj32_l2nap_day1.vhdr",
+    "path": "/suj32_l2nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj32_l2nap_day1.vhdr",
+    "etag": "6a9fc35c6daf31c2f0600545635c3b74ec6fc411f5f20004a85174c77b5890fa",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-11T16:07:26.000Z",
+    "modified_utc": "2016-07-11T16:07:26+00:00",
+    "created_utc": "2016-08-05T04:49:11+00:00",
+    "size": "3231",
+    "sizeInt": 3231,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l2nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l2nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l2nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l2nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj32_l2nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333218",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CZWN5TE1TWnZhMUk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "b301245107ec29c82f22f51815c52b62"
+     }
+    },
+    "kind": "file",
+    "name": "suj32_l2nap_day1.vmrk",
+    "path": "/suj32_l2nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj32_l2nap_day1.vmrk",
+    "etag": "7ea33656b28b63254c630c8f1a2f042c4949d741b7af3b397771b3102422b093",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-11T16:07:26.000Z",
+    "modified_utc": "2016-07-11T16:07:26+00:00",
+    "created_utc": "2016-08-05T04:49:10+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l2nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l2nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l2nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj32_l2nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj29_l2nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333184",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CMkRYVEhwVHdOV2s/view?usp=drivesdk",
+     "hashes": {
+      "md5": "f93f8c01f769d15b494edbab9a183204"
+     }
+    },
+    "kind": "file",
+    "name": "suj29_l2nap_day2.eeg",
+    "path": "/suj29_l2nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj29_l2nap_day2.eeg",
+    "etag": "f5c1e61ab33d4a8fb4f801e19d387eaf10f814718b1b0c9fc764641f28c26ba5",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-06T16:43:52.000Z",
+    "modified_utc": "2016-07-06T16:43:52+00:00",
+    "created_utc": "2016-08-05T04:39:07+00:00",
+    "size": "461772800",
+    "sizeInt": 461772800,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l2nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l2nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l2nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l2nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj29_l2nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333187",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CeDRqSUQ3TzJLWHc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "6a7dadd28e8510a792460d58c1f01090"
+     }
+    },
+    "kind": "file",
+    "name": "suj29_l2nap_day2.vmrk",
+    "path": "/suj29_l2nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj29_l2nap_day2.vmrk",
+    "etag": "326883228a6ce34065ffcc8f73647cda2583a7c8dad89e2efd8ab07301df2d2d",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-06T16:13:50.000Z",
+    "modified_utc": "2016-07-06T16:13:50+00:00",
+    "created_utc": "2016-08-05T04:39:08+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l2nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l2nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l2nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l2nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj29_l2nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333190",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CNXcxRnNtbU1ZR0k/view?usp=drivesdk",
+     "hashes": {
+      "md5": "724aa7afb11ac4df2f9a577d6266ee41"
+     }
+    },
+    "kind": "file",
+    "name": "suj29_l2nap_day2.vhdr",
+    "path": "/suj29_l2nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj29_l2nap_day2.vhdr",
+    "etag": "338d5bff620538e5f79e84b20a63c76dd8ae057afd0f1f3c3066c8121e00b55b",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-06T16:13:50.000Z",
+    "modified_utc": "2016-07-06T16:13:50+00:00",
+    "created_utc": "2016-08-05T04:39:10+00:00",
+    "size": "3227",
+    "sizeInt": 3227,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l2nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l2nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l2nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l2nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj30_l2nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333193",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CWHhHUHl0M0hmVGc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "e291bf91b3a582a7b8fddb46387f8295"
+     }
+    },
+    "kind": "file",
+    "name": "suj30_l2nap_day1.eeg",
+    "path": "/suj30_l2nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj30_l2nap_day1.eeg",
+    "etag": "d27f5c88b045445068c21e8dc80ac1ad8e178c8fd097780903657e0a56014c76",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-05T20:20:46.000Z",
+    "modified_utc": "2016-07-05T20:20:46+00:00",
+    "created_utc": "2016-08-05T04:45:17+00:00",
+    "size": "462732800",
+    "sizeInt": 462732800,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l2nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l2nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l2nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l2nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj30_l2nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333196",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CMl9XSXR5MlYwdWc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "e74bf4fd1471bd46b546956ef23a7b97"
+     }
+    },
+    "kind": "file",
+    "name": "suj30_l2nap_day1.vmrk",
+    "path": "/suj30_l2nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj30_l2nap_day1.vmrk",
+    "etag": "d785e08fca1e318db39590baa6b353e4ab3623e184384440839b8d3fd7114d91",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-05T19:50:40.000Z",
+    "modified_utc": "2016-07-05T19:50:40+00:00",
+    "created_utc": "2016-08-05T04:45:18+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l2nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l2nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l2nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l2nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj30_l2nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333199",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CR1A5a1Q3RmppYVk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "184fe30c2959e228fd5f5d103166a5c7"
+     }
+    },
+    "kind": "file",
+    "name": "suj30_l2nap_day1.vhdr",
+    "path": "/suj30_l2nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj30_l2nap_day1.vhdr",
+    "etag": "382f4d20c6b030d48203c9adba850e7fbc5801a877cc5c424ab301cc7fe5c741",
+    "contentType": "application/octet-stream",
+    "modified": "2016-07-05T19:50:38.000Z",
+    "modified_utc": "2016-07-05T19:50:38+00:00",
+    "created_utc": "2016-08-05T04:45:19+00:00",
+    "size": "3225",
+    "sizeInt": 3225,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l2nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l2nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l2nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj30_l2nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj29_l5nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333166",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CeHlOWlNiemtHb0U/view?usp=drivesdk",
+     "hashes": {
+      "md5": "feabc81ce91550b5a18db00da3ffddb6"
+     }
+    },
+    "kind": "file",
+    "name": "suj29_l5nap_day1.eeg",
+    "path": "/suj29_l5nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj29_l5nap_day1.eeg",
+    "etag": "36bce635ad39ccade61f8c67a8ea97c347ddcde42b9761c8ce7956ae06e3a8df",
+    "contentType": "application/octet-stream",
+    "modified": "2016-06-29T16:57:00.000Z",
+    "modified_utc": "2016-06-29T16:57:00+00:00",
+    "created_utc": "2016-08-05T04:34:37+00:00",
+    "size": "462067200",
+    "sizeInt": 462067200,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l5nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l5nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l5nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l5nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj29_l5nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333172",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CaGYySlJ6TmdjRWc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "11839a535a2af183a00c876c6664d64f"
+     }
+    },
+    "kind": "file",
+    "name": "suj29_l5nap_day1.vmrk",
+    "path": "/suj29_l5nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj29_l5nap_day1.vmrk",
+    "etag": "db577307aa86e926c4f6b70761992dcf5f992fc3c2c324c2060d8a7d047b46dd",
+    "contentType": "application/octet-stream",
+    "modified": "2016-06-29T16:26:56.000Z",
+    "modified_utc": "2016-06-29T16:26:56+00:00",
+    "created_utc": "2016-08-05T04:34:38+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l5nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l5nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l5nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l5nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj29_l5nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333169",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CMlhSaFB6V0ctMWM/view?usp=drivesdk",
+     "hashes": {
+      "md5": "0a54ed0b8a405356d49b9b48ae140d73"
+     }
+    },
+    "kind": "file",
+    "name": "suj29_l5nap_day1.vhdr",
+    "path": "/suj29_l5nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj29_l5nap_day1.vhdr",
+    "etag": "819db50561e20b4880c993b1be23f7651641cc0dc6e1f083ed0d4e2166e233d0",
+    "contentType": "application/octet-stream",
+    "modified": "2016-06-29T16:26:54.000Z",
+    "modified_utc": "2016-06-29T16:26:54+00:00",
+    "created_utc": "2016-08-05T04:34:38+00:00",
+    "size": "3233",
+    "sizeInt": 3233,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l5nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l5nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l5nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj29_l5nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj28_l5nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333175",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CNzR2TmdHTEpKcWs/view?usp=drivesdk",
+     "hashes": {
+      "md5": "17e0c3c38dc222f3e96f2b81906e4d3a"
+     }
+    },
+    "kind": "file",
+    "name": "suj28_l5nap_day2.eeg",
+    "path": "/suj28_l5nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj28_l5nap_day2.eeg",
+    "etag": "437df109ec0cd1f0cf90c66b7e95078040cbf4c54fef6304f508943779ccbfb4",
+    "contentType": "application/octet-stream",
+    "modified": "2016-06-22T16:29:14.000Z",
+    "modified_utc": "2016-06-22T16:29:14+00:00",
+    "created_utc": "2016-08-05T04:36:17+00:00",
+    "size": "463833600",
+    "sizeInt": 463833600,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l5nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l5nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l5nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l5nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj28_l5nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333178",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CT1FPX2RTcUdkbGc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "945fd2e3f6f14d4bb5630cfb350f5e44"
+     }
+    },
+    "kind": "file",
+    "name": "suj28_l5nap_day2.vmrk",
+    "path": "/suj28_l5nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj28_l5nap_day2.vmrk",
+    "etag": "dd48af821fd14e77117d3e1348202a0ad6f7360aa55fa3ca7f56fe05687db045",
+    "contentType": "application/octet-stream",
+    "modified": "2016-06-22T15:59:04.000Z",
+    "modified_utc": "2016-06-22T15:59:04+00:00",
+    "created_utc": "2016-08-05T04:36:18+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l5nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l5nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l5nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l5nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj28_l5nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333181",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CQ3RhZUlxRjI2V3M/view?usp=drivesdk",
+     "hashes": {
+      "md5": "c2d7954ac34f65202045a1a67123664c"
+     }
+    },
+    "kind": "file",
+    "name": "suj28_l5nap_day2.vhdr",
+    "path": "/suj28_l5nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj28_l5nap_day2.vhdr",
+    "etag": "c69c631489ca64d54ae17d9e69fe948d89bddf6d750e47a85bec4b86393e0f5f",
+    "contentType": "application/octet-stream",
+    "modified": "2016-06-22T15:59:04.000Z",
+    "modified_utc": "2016-06-22T15:59:04+00:00",
+    "created_utc": "2016-08-05T04:36:18+00:00",
+    "size": "3243",
+    "sizeInt": 3243,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l5nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l5nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l5nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l5nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj28_l2nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333151",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CSzRYX0pmdC1RaXc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "9a183b1cadab0bd65dd6dd45d2ce4083"
+     }
+    },
+    "kind": "file",
+    "name": "suj28_l2nap_day1.eeg",
+    "path": "/suj28_l2nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj28_l2nap_day1.eeg",
+    "etag": "4b986ea48d3e83ae7e59722c81f514f7b61063da84a63d9a711e1eb7bf6699e9",
+    "contentType": "application/octet-stream",
+    "modified": "2016-06-15T16:50:42.000Z",
+    "modified_utc": "2016-06-15T16:50:42+00:00",
+    "created_utc": "2016-08-05T04:25:52+00:00",
+    "size": "462758400",
+    "sizeInt": 462758400,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l2nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l2nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l2nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l2nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj28_l2nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333154",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CTjBOU2JleFlneTQ/view?usp=drivesdk",
+     "hashes": {
+      "md5": "307af164f26905179be5de137c0ea29d"
+     }
+    },
+    "kind": "file",
+    "name": "suj28_l2nap_day1.vmrk",
+    "path": "/suj28_l2nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj28_l2nap_day1.vmrk",
+    "etag": "0dc7e2a2dc71165f14eda44e29fdd45970642ac0743813908a99b457491af0bd",
+    "contentType": "application/octet-stream",
+    "modified": "2016-06-15T16:20:36.000Z",
+    "modified_utc": "2016-06-15T16:20:36+00:00",
+    "created_utc": "2016-08-05T04:25:53+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l2nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l2nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l2nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l2nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj28_l2nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333157",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CSk1RSGpEaXhBOGs/view?usp=drivesdk",
+     "hashes": {
+      "md5": "ddfd87ffdc4c004e02d73dafa719062f"
+     }
+    },
+    "kind": "file",
+    "name": "suj28_l2nap_day1.vhdr",
+    "path": "/suj28_l2nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj28_l2nap_day1.vhdr",
+    "etag": "44feb6fa25457caf5987ebd07f64d98f45e84b7200af31f5de8dfdda1f948b97",
+    "contentType": "application/octet-stream",
+    "modified": "2016-06-15T16:20:36.000Z",
+    "modified_utc": "2016-06-15T16:20:36+00:00",
+    "created_utc": "2016-08-05T04:25:55+00:00",
+    "size": "3243",
+    "sizeInt": 3243,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l2nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l2nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l2nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj28_l2nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj27_l2nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333133",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CRHY4UXYtbktIOTg/view?usp=drivesdk",
+     "hashes": {
+      "md5": "7b367982f55f51a39756ab04d43e80be"
+     }
+    },
+    "kind": "file",
+    "name": "suj27_l2nap_day2.eeg",
+    "path": "/suj27_l2nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj27_l2nap_day2.eeg",
+    "etag": "8394e73e690509bb2108cc6bd4754fa61f468b6514a5900a0f31ef70914a8e3b",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-17T17:24:26.000Z",
+    "modified_utc": "2015-12-17T17:24:26+00:00",
+    "created_utc": "2016-08-05T04:18:21+00:00",
+    "size": "461964800",
+    "sizeInt": 461964800,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l2nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l2nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l2nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l2nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj27_l2nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333136",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CWTgyTDZPSWhPV2c/view?usp=drivesdk",
+     "hashes": {
+      "md5": "86f93ab1c5ff35461d2a5c1bac49aa77"
+     }
+    },
+    "kind": "file",
+    "name": "suj27_l2nap_day2.vmrk",
+    "path": "/suj27_l2nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj27_l2nap_day2.vmrk",
+    "etag": "fa4c2e8b5d721750bb169863e11d8ce0b3a1594a1ae84d5955f78d7fdd52a0e3",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-17T16:54:22.000Z",
+    "modified_utc": "2015-12-17T16:54:22+00:00",
+    "created_utc": "2016-08-05T04:18:22+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l2nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l2nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l2nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l2nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj27_l2nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333139",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CN0VNWWstbVZPN28/view?usp=drivesdk",
+     "hashes": {
+      "md5": "ef200e999fc60236bfa862b8d58aedb8"
+     }
+    },
+    "kind": "file",
+    "name": "suj27_l2nap_day2.vhdr",
+    "path": "/suj27_l2nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj27_l2nap_day2.vhdr",
+    "etag": "f5e77a3f7e123ccfde359c4bf431cd5b660be5368730a3720267cac207f08db6",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-17T16:54:22.000Z",
+    "modified_utc": "2015-12-17T16:54:22+00:00",
+    "created_utc": "2016-08-05T04:18:23+00:00",
+    "size": "3219",
+    "sizeInt": 3219,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l2nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l2nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l2nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l2nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj26_l2nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333115",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CSVB1eEstNzZZSjA/view?usp=drivesdk",
+     "hashes": {
+      "md5": "0ff8d0a5ab25a8edfc3417a5dd0a4478"
+     }
+    },
+    "kind": "file",
+    "name": "suj26_l2nap_day2.eeg",
+    "path": "/suj26_l2nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj26_l2nap_day2.eeg",
+    "etag": "2c984e36396783aa17116b07068c9b2bf125d699e9147d530a9d165b4e104722",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-14T21:59:42.000Z",
+    "modified_utc": "2015-12-14T21:59:42+00:00",
+    "created_utc": "2016-08-05T04:11:21+00:00",
+    "size": "468595200",
+    "sizeInt": 468595200,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l2nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l2nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l2nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l2nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj26_l2nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333121",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CX2RCaDhaT0M4V1k/view?usp=drivesdk",
+     "hashes": {
+      "md5": "14bdfe2a2efcd04357dbcabbe5e20a20"
+     }
+    },
+    "kind": "file",
+    "name": "suj26_l2nap_day2.vmrk",
+    "path": "/suj26_l2nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj26_l2nap_day2.vmrk",
+    "etag": "484b66245c2f34f8aaf0f28caae1c7f424b5c37de627f64d4eb101c7aeb65859",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-14T21:29:12.000Z",
+    "modified_utc": "2015-12-14T21:29:12+00:00",
+    "created_utc": "2016-08-05T04:11:23+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l2nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l2nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l2nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l2nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj26_l2nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333118",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13Cc3FRYTBDRmx4dEE/view?usp=drivesdk",
+     "hashes": {
+      "md5": "12e999b5e91883ceb4277e0784b520c1"
+     }
+    },
+    "kind": "file",
+    "name": "suj26_l2nap_day2.vhdr",
+    "path": "/suj26_l2nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj26_l2nap_day2.vhdr",
+    "etag": "0134c87245fb675014cbb4c581db47ef9441a40a8451ae4a219ca786f67132e2",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-14T21:29:10.000Z",
+    "modified_utc": "2015-12-14T21:29:10+00:00",
+    "created_utc": "2016-08-05T04:11:22+00:00",
+    "size": "3227",
+    "sizeInt": 3227,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l2nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l2nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l2nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l2nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj27_l5nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333160",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CYmdnTjVTRnM1VDQ/view?usp=drivesdk",
+     "hashes": {
+      "md5": "0ddc0eb3e30d5a9f6aa9df5cc9e62390"
+     }
+    },
+    "kind": "file",
+    "name": "suj27_l5nap_day1.eeg",
+    "path": "/suj27_l5nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj27_l5nap_day1.eeg",
+    "etag": "c762ffbc6b5ed9a9ce868466d1f910ff2d1e4639f6cf0a59a378208441c35ab7",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-10T17:29:32.000Z",
+    "modified_utc": "2015-12-10T17:29:32+00:00",
+    "created_utc": "2016-08-05T04:26:38+00:00",
+    "size": "480064000",
+    "sizeInt": 480064000,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l5nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l5nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l5nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l5nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj27_l5nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333055",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13Camc2ajlCS1FBNkE/view?usp=drivesdk",
+     "hashes": {
+      "md5": "bbc83b7e467b67e2cb7ec8708fcdfc54"
+     }
+    },
+    "kind": "file",
+    "name": "suj27_l5nap_day1.vmrk",
+    "path": "/suj27_l5nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj27_l5nap_day1.vmrk",
+    "etag": "ead21a51d57450a517e7b8325532f59b5d3df472ca38032c1b8f3853e5298f7e",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-10T16:58:18.000Z",
+    "modified_utc": "2015-12-10T16:58:18+00:00",
+    "created_utc": "2016-08-05T03:40:37+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l5nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l5nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l5nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l5nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj27_l5nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333163",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CMnRkUHZ2Q24xUlU/view?usp=drivesdk",
+     "hashes": {
+      "md5": "fda9b19e419c75785ffdbbfdc05c0621"
+     }
+    },
+    "kind": "file",
+    "name": "suj27_l5nap_day1.vhdr",
+    "path": "/suj27_l5nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj27_l5nap_day1.vhdr",
+    "etag": "8babb7be7d35de19af6255c0482f7d0cc7be09cb9d09a15daba21f3342e77d90",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-10T16:58:16.000Z",
+    "modified_utc": "2015-12-10T16:58:16+00:00",
+    "created_utc": "2016-08-05T04:26:39+00:00",
+    "size": "3220",
+    "sizeInt": 3220,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l5nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l5nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l5nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj27_l5nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj26_l5nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333142",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CLWhuRFNNU3F3UVE/view?usp=drivesdk",
+     "hashes": {
+      "md5": "d10f508208138c9b15375ee3cfb7818f"
+     }
+    },
+    "kind": "file",
+    "name": "suj26_l5nap_day1.eeg",
+    "path": "/suj26_l5nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj26_l5nap_day1.eeg",
+    "etag": "4670da9483274deb6e0c82241e8b2403b4543db3d41f5cd49eb2f051afd4c709",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-07T22:01:22.000Z",
+    "modified_utc": "2015-12-07T22:01:22+00:00",
+    "created_utc": "2016-08-05T04:25:00+00:00",
+    "size": "461990400",
+    "sizeInt": 461990400,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l5nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l5nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l5nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l5nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj26_l5nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333145",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CekRaeGMzbDV5MTA/view?usp=drivesdk",
+     "hashes": {
+      "md5": "a7f6313a53f3d9ec9b5e2ee2e8fd059d"
+     }
+    },
+    "kind": "file",
+    "name": "suj26_l5nap_day1.vmrk",
+    "path": "/suj26_l5nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj26_l5nap_day1.vmrk",
+    "etag": "9631c775648a659f33eaffb0464bbcf07ba56236f37d334214c130f9561d5f70",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-07T21:31:20.000Z",
+    "modified_utc": "2015-12-07T21:31:20+00:00",
+    "created_utc": "2016-08-05T04:25:01+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l5nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l5nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l5nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l5nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj26_l5nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333148",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13Cd1NMVkEwSENSS3M/view?usp=drivesdk",
+     "hashes": {
+      "md5": "fd91264b40adfca04480a57b3d53b088"
+     }
+    },
+    "kind": "file",
+    "name": "suj26_l5nap_day1.vhdr",
+    "path": "/suj26_l5nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj26_l5nap_day1.vhdr",
+    "etag": "d034260237ebc0282176edfa8e5162927db7f67e96ae7b13c75dc768cd56a972",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-07T21:31:18.000Z",
+    "modified_utc": "2015-12-07T21:31:18+00:00",
+    "created_utc": "2016-08-05T04:25:01+00:00",
+    "size": "3247",
+    "sizeInt": 3247,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l5nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l5nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l5nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj26_l5nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj25_l5nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333124",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13Cc0h3MlNyQUNhcDg/view?usp=drivesdk",
+     "hashes": {
+      "md5": "5648a633d4e7c5a8dae7fb404e216932"
+     }
+    },
+    "kind": "file",
+    "name": "suj25_l5nap_day2.eeg",
+    "path": "/suj25_l5nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj25_l5nap_day2.eeg",
+    "etag": "f7d85b6a7465dfe737e8787bce103e22de225d345986c9d4e3a77cca50cc2e41",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-03T18:49:30.000Z",
+    "modified_utc": "2015-12-03T18:49:30+00:00",
+    "created_utc": "2016-08-05T04:12:35+00:00",
+    "size": "467801600",
+    "sizeInt": 467801600,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l5nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l5nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l5nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l5nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj25_l5nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333127",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CRFpuRERWd25RUlE/view?usp=drivesdk",
+     "hashes": {
+      "md5": "482943b0112ec3a4395974d5cd2dfeb0"
+     }
+    },
+    "kind": "file",
+    "name": "suj25_l5nap_day2.vmrk",
+    "path": "/suj25_l5nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj25_l5nap_day2.vmrk",
+    "etag": "38574343b005a55db38183d39ef715aa98ef99e4b3d52a2ad84aba19bdf9c1e2",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-03T18:19:04.000Z",
+    "modified_utc": "2015-12-03T18:19:04+00:00",
+    "created_utc": "2016-08-05T04:12:36+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l5nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l5nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l5nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l5nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj25_l5nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333130",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CaHNUQ1FvcDY4WVU/view?usp=drivesdk",
+     "hashes": {
+      "md5": "2dd5debb8a03cbbe864d60bcb2a66f6c"
+     }
+    },
+    "kind": "file",
+    "name": "suj25_l5nap_day2.vhdr",
+    "path": "/suj25_l5nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj25_l5nap_day2.vhdr",
+    "etag": "fe65c18a4c92bdd243401eb7fea6707e6242eca19718bc765cc96b2edd55bc71",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-03T18:19:02.000Z",
+    "modified_utc": "2015-12-03T18:19:02+00:00",
+    "created_utc": "2016-08-05T04:12:37+00:00",
+    "size": "3231",
+    "sizeInt": 3231,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l5nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l5nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l5nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l5nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj25_l2nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333100",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CODB5ZVpnQzN0clk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "2ea84c5b581311e298047c5aefd095d9"
+     }
+    },
+    "kind": "file",
+    "name": "suj25_l2nap_day1.eeg",
+    "path": "/suj25_l2nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj25_l2nap_day1.eeg",
+    "etag": "eec375c0be9c201716ac22e0557e53999fb0e789cdcb2dfa0dd78ca4db23de1e",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-02T19:15:50.000Z",
+    "modified_utc": "2015-12-02T19:15:50+00:00",
+    "created_utc": "2016-08-05T04:03:53+00:00",
+    "size": "462566400",
+    "sizeInt": 462566400,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l2nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l2nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l2nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l2nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj25_l2nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333103",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CdVAxRUl6THUtUDA/view?usp=drivesdk",
+     "hashes": {
+      "md5": "d6eb64c9fbaa8f90e4ff25e3a4cb7ca2"
+     }
+    },
+    "kind": "file",
+    "name": "suj25_l2nap_day1.vmrk",
+    "path": "/suj25_l2nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj25_l2nap_day1.vmrk",
+    "etag": "b57d8cbca442feb54e517db6ac6607eaad27586583bcca45f18663c9fe506d86",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-02T18:45:44.000Z",
+    "modified_utc": "2015-12-02T18:45:44+00:00",
+    "created_utc": "2016-08-05T04:03:54+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l2nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l2nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l2nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l2nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj25_l2nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333061",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CdFlHbnEtN1Ezb1E/view?usp=drivesdk",
+     "hashes": {
+      "md5": "c871a5ef2502c4ce496a6083c23246f7"
+     }
+    },
+    "kind": "file",
+    "name": "suj25_l2nap_day1.vhdr",
+    "path": "/suj25_l2nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj25_l2nap_day1.vhdr",
+    "etag": "3f8839dedcbf207189f180c97aa5345e7b6ffcdf0b34d75159dd3b7d23f4ead7",
+    "contentType": "application/octet-stream",
+    "modified": "2015-12-02T18:45:42.000Z",
+    "modified_utc": "2015-12-02T18:45:42+00:00",
+    "created_utc": "2016-08-05T03:47:15+00:00",
+    "size": "3227",
+    "sizeInt": 3227,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l2nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l2nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l2nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj25_l2nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj23_l5nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333106",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CUWpnaXJIdnJzRkU/view?usp=drivesdk",
+     "hashes": {
+      "md5": "defbab9361f98555a505732a2f454883"
+     }
+    },
+    "kind": "file",
+    "name": "suj23_l5nap_day2.eeg",
+    "path": "/suj23_l5nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj23_l5nap_day2.eeg",
+    "etag": "b6aa93fc272202aa676c39e3a4d4f0097dba4f7b5f7e3c29c650af5f943e578a",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-25T17:39:02.000Z",
+    "modified_utc": "2015-11-25T17:39:02+00:00",
+    "created_utc": "2016-08-05T04:09:53+00:00",
+    "size": "462771200",
+    "sizeInt": 462771200,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l5nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l5nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l5nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l5nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj23_l5nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333112",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CSE8tQi1VY0R1ZzQ/view?usp=drivesdk",
+     "hashes": {
+      "md5": "723d257974158e3801ece2dbcc991956"
+     }
+    },
+    "kind": "file",
+    "name": "suj23_l5nap_day2.vhdr",
+    "path": "/suj23_l5nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj23_l5nap_day2.vhdr",
+    "etag": "f3aa42396da5ce76d091970f2f3907d29f0d31e72bb7de485d31778fd32453a5",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-25T17:08:54.000Z",
+    "modified_utc": "2015-11-25T17:08:54+00:00",
+    "created_utc": "2016-08-05T04:09:57+00:00",
+    "size": "3242",
+    "sizeInt": 3242,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l5nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l5nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l5nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l5nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj21_l5nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333064",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CeXRDMDFEZ3ZIcGM/view?usp=drivesdk",
+     "hashes": {
+      "md5": "3a1d090811d91202e76c6b82c7600f9f"
+     }
+    },
+    "kind": "file",
+    "name": "suj21_l5nap_day2.eeg",
+    "path": "/suj21_l5nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj21_l5nap_day2.eeg",
+    "etag": "b863410ec12dc528b12961db0f016f913ca1c317638036662ef404878a5fb1cb",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-24T19:36:16.000Z",
+    "modified_utc": "2015-11-24T19:36:16+00:00",
+    "created_utc": "2016-08-05T03:47:55+00:00",
+    "size": "461606400",
+    "sizeInt": 461606400,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l5nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l5nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l5nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l5nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj21_l5nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333070",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CS3lJd3RwOW05WG8/view?usp=drivesdk",
+     "hashes": {
+      "md5": "b6c864f9bcf02df615ea7e900d6d00e0"
+     }
+    },
+    "kind": "file",
+    "name": "suj21_l5nap_day2.vmrk",
+    "path": "/suj21_l5nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj21_l5nap_day2.vmrk",
+    "etag": "c340ac6db4ec27d8ac18a7aa1a83210c9967a4db01ffc7789c18cea42665efc1",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-24T19:06:14.000Z",
+    "modified_utc": "2015-11-24T19:06:14+00:00",
+    "created_utc": "2016-08-05T03:47:57+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l5nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l5nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l5nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l5nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj21_l5nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333067",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CUlZuLXZmYllKVHc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "78752e22830566aff3ebeac55b48f3a9"
+     }
+    },
+    "kind": "file",
+    "name": "suj21_l5nap_day2.vhdr",
+    "path": "/suj21_l5nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj21_l5nap_day2.vhdr",
+    "etag": "993ed3383420a4945d442f2f30e7e14aaed095b633c0879b47ca136dd7b15ddc",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-24T19:06:12.000Z",
+    "modified_utc": "2015-11-24T19:06:12+00:00",
+    "created_utc": "2016-08-05T03:47:56+00:00",
+    "size": "3245",
+    "sizeInt": 3245,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l5nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l5nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l5nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l5nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj22_l2nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333073",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CWlVpQ2lqT1FqTkU/view?usp=drivesdk",
+     "hashes": {
+      "md5": "12ab156d62e7cf7814d56ad529c3029f"
+     }
+    },
+    "kind": "file",
+    "name": "suj22_l2nap_day2.eeg",
+    "path": "/suj22_l2nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj22_l2nap_day2.eeg",
+    "etag": "9ebe07bf6687d0a57b3ff3bdf5c123a9693a8ffd850d357f02b0e18c94bb4b54",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-23T20:26:08.000Z",
+    "modified_utc": "2015-11-23T20:26:08+00:00",
+    "created_utc": "2016-08-05T03:55:29+00:00",
+    "size": "463014400",
+    "sizeInt": 463014400,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l2nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l2nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l2nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l2nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj22_l2nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333076",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CZkxhM184a3Frdm8/view?usp=drivesdk",
+     "hashes": {
+      "md5": "6581ac48d5f0f4591e89952aa76b10fa"
+     }
+    },
+    "kind": "file",
+    "name": "suj22_l2nap_day2.vmrk",
+    "path": "/suj22_l2nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj22_l2nap_day2.vmrk",
+    "etag": "590451e663729650385d5810fcf599db0e79cf6cdd52e4a77cdc69e8eb2f90e2",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-23T19:56:00.000Z",
+    "modified_utc": "2015-11-23T19:56:00+00:00",
+    "created_utc": "2016-08-05T03:55:29+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l2nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l2nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l2nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l2nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj22_l2nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333079",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CUl8yZXgzdFFiOVk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "481ee5c2fe141f028ff691b9dbe10cbb"
+     }
+    },
+    "kind": "file",
+    "name": "suj22_l2nap_day2.vhdr",
+    "path": "/suj22_l2nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj22_l2nap_day2.vhdr",
+    "etag": "073bca224796bb3ed54997b825cdb41feddb1724329bd0e0599f852e22d1c064",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-23T19:55:58.000Z",
+    "modified_utc": "2015-11-23T19:55:58+00:00",
+    "created_utc": "2016-08-05T03:55:30+00:00",
+    "size": "3222",
+    "sizeInt": 3222,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l2nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l2nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l2nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l2nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj23_l2nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333424",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CVXlyYm5Ga0RXazA/view?usp=drivesdk",
+     "hashes": {
+      "md5": "b0fa828026ffff030f83e96f101f7392"
+     }
+    },
+    "kind": "file",
+    "name": "suj23_l2nap_day1.eeg",
+    "path": "/suj23_l2nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj23_l2nap_day1.eeg",
+    "etag": "b8c6136d1ac199462629db7b28346ad182ede07a4e3f97224916a1fd280cae29",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-18T17:51:56.000Z",
+    "modified_utc": "2015-11-18T17:51:56+00:00",
+    "created_utc": "2016-08-09T00:34:19+00:00",
+    "size": "461862400",
+    "sizeInt": 461862400,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l2nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l2nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l2nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l2nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj23_l2nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333088",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CVFhvajdMV0REbWc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "daa4b31afc4f0814cd252f2de2cd3719"
+     }
+    },
+    "kind": "file",
+    "name": "suj23_l2nap_day1.vmrk",
+    "path": "/suj23_l2nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj23_l2nap_day1.vmrk",
+    "etag": "53d0d6c4b934c6f50f4fb18699bc999fd8ab488725708b1fcc8c53d249017714",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-18T17:21:52.000Z",
+    "modified_utc": "2015-11-18T17:21:52+00:00",
+    "created_utc": "2016-08-05T03:55:40+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l2nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l2nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l2nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l2nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj23_l2nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333085",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CMDhKNHcxbnNiT3c/view?usp=drivesdk",
+     "hashes": {
+      "md5": "246749385aaed7675d11941fe6cc1331"
+     }
+    },
+    "kind": "file",
+    "name": "suj23_l2nap_day1.vhdr",
+    "path": "/suj23_l2nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj23_l2nap_day1.vhdr",
+    "etag": "4e2e2770e98351937bda34286c49d795556a19b00e4e1147cf1187ea86168bb6",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-18T17:21:52.000Z",
+    "modified_utc": "2015-11-18T17:21:52+00:00",
+    "created_utc": "2016-08-05T03:55:39+00:00",
+    "size": "3238",
+    "sizeInt": 3238,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l2nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l2nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l2nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj23_l2nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj20_l2nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333022",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CQ2g4WHFvX3Y5MEE/view?usp=drivesdk",
+     "hashes": {
+      "md5": "7de4a2dd0acb4e79eaf0e0828ca2011c"
+     }
+    },
+    "kind": "file",
+    "name": "suj20_l2nap_day2.eeg",
+    "path": "/suj20_l2nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj20_l2nap_day2.eeg",
+    "etag": "f597a3747dc407276e3f669c13c6a2c353c2db08596d73e8226686ca3d0be850",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-17T17:41:24.000Z",
+    "modified_utc": "2015-11-17T17:41:24+00:00",
+    "created_utc": "2016-08-05T03:35:25+00:00",
+    "size": "462656000",
+    "sizeInt": 462656000,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l2nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l2nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l2nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l2nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj20_l2nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333028",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CSWtrbmdDWlNWMDA/view?usp=drivesdk",
+     "hashes": {
+      "md5": "3e447726809cd67569526da7702e2acc"
+     }
+    },
+    "kind": "file",
+    "name": "suj20_l2nap_day2.vhdr",
+    "path": "/suj20_l2nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj20_l2nap_day2.vhdr",
+    "etag": "fa699be30227b6081788b9d73e604a6d5ce5e9d54b15df1511058361e5dc9f94",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-17T17:11:16.000Z",
+    "modified_utc": "2015-11-17T17:11:16+00:00",
+    "created_utc": "2016-08-05T03:35:27+00:00",
+    "size": "3249",
+    "sizeInt": 3249,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l2nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l2nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l2nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l2nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj20_l2nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333025",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13COHM3dmpwbjNVRU0/view?usp=drivesdk",
+     "hashes": {
+      "md5": "ef2fa2a168b684675f959d7cbf5390cf"
+     }
+    },
+    "kind": "file",
+    "name": "suj20_l2nap_day2.vmrk",
+    "path": "/suj20_l2nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj20_l2nap_day2.vmrk",
+    "etag": "665eb4d28fc372f7da293f6b85f724a4af771c6081f26d12be39c520cf746243",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-17T17:11:16.000Z",
+    "modified_utc": "2015-11-17T17:11:16+00:00",
+    "created_utc": "2016-08-05T03:35:26+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l2nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l2nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l2nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l2nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj22_l5nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333091",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CMkxpUzM4NDI2RXc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "16214ab5b7dbb559607d71f9152949ce"
+     }
+    },
+    "kind": "file",
+    "name": "suj22_l5nap_day1.eeg",
+    "path": "/suj22_l5nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj22_l5nap_day1.eeg",
+    "etag": "48635967a0b4ce21003bdc097659069e64f2206f73e53d895802f3a10cb7220b",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-16T20:15:34.000Z",
+    "modified_utc": "2015-11-16T20:15:34+00:00",
+    "created_utc": "2016-08-05T03:59:26+00:00",
+    "size": "462208000",
+    "sizeInt": 462208000,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l5nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l5nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l5nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l5nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj22_l5nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333097",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CV0xHYTJGQnBPQXM/view?usp=drivesdk",
+     "hashes": {
+      "md5": "e37066b871b354ac0077918127a23bc1"
+     }
+    },
+    "kind": "file",
+    "name": "suj22_l5nap_day1.vhdr",
+    "path": "/suj22_l5nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj22_l5nap_day1.vhdr",
+    "etag": "17671f09069e2ca915a012b374d206291ce160035eccdf058f24f74b8046e0a0",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-16T19:45:28.000Z",
+    "modified_utc": "2015-11-16T19:45:28+00:00",
+    "created_utc": "2016-08-05T03:59:27+00:00",
+    "size": "3226",
+    "sizeInt": 3226,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l5nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l5nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l5nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l5nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj22_l5nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333094",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CTkU2Q3VHR1pvT1k/view?usp=drivesdk",
+     "hashes": {
+      "md5": "63e34067888912a449a129bc3f78ec24"
+     }
+    },
+    "kind": "file",
+    "name": "suj22_l5nap_day1.vmrk",
+    "path": "/suj22_l5nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj22_l5nap_day1.vmrk",
+    "etag": "064b9d5d82688b9d4fa94adc6f2e27193244aa42539501585fb1aaa97d7f6ec2",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-16T19:45:28.000Z",
+    "modified_utc": "2015-11-16T19:45:28+00:00",
+    "created_utc": "2016-08-05T03:59:26+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l5nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l5nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l5nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj22_l5nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj21_l2nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333040",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CSmNLLWpFMDVJcmc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "a742e09824e3fdee36b3f927d3b43e59"
+     }
+    },
+    "kind": "file",
+    "name": "suj21_l2nap_day1.eeg",
+    "path": "/suj21_l2nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj21_l2nap_day1.eeg",
+    "etag": "8d9411efeb5953796fa40d24ee56888e86226925fc99fa49983926099c29947e",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-12T19:50:06.000Z",
+    "modified_utc": "2015-11-12T19:50:06+00:00",
+    "created_utc": "2016-08-05T03:40:30+00:00",
+    "size": "465139200",
+    "sizeInt": 465139200,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l2nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l2nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l2nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l2nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj21_l2nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333043",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CLUEyNlgwNHoxMnc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "5223b2064afee0c118c50601b8e54c7b"
+     }
+    },
+    "kind": "file",
+    "name": "suj21_l2nap_day1.vmrk",
+    "path": "/suj21_l2nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj21_l2nap_day1.vmrk",
+    "etag": "1e6f17682bc8b77f8d616729ade62c81809043aeab4da73245d88cd72693841a",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-12T19:19:50.000Z",
+    "modified_utc": "2015-11-12T19:19:50+00:00",
+    "created_utc": "2016-08-05T03:40:32+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l2nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l2nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l2nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l2nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj21_l2nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333046",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CYjZwNHJ3dUFwU0k/view?usp=drivesdk",
+     "hashes": {
+      "md5": "82786a3c75e97be445e9736af9d8ad62"
+     }
+    },
+    "kind": "file",
+    "name": "suj21_l2nap_day1.vhdr",
+    "path": "/suj21_l2nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj21_l2nap_day1.vhdr",
+    "etag": "05dd411f354c8e026855155e1a1f92516272ca259c7dfcaa235c0251b6b21010",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-12T19:19:48.000Z",
+    "modified_utc": "2015-11-12T19:19:48+00:00",
+    "created_utc": "2016-08-05T03:40:32+00:00",
+    "size": "3228",
+    "sizeInt": 3228,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l2nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l2nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l2nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj21_l2nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj18_l5nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332998",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CN1FYRWd6U3VuUW8/view?usp=drivesdk",
+     "hashes": {
+      "md5": "2a09367d73bfdac23f8d3313c3cbcf40"
+     }
+    },
+    "kind": "file",
+    "name": "suj18_l5nap_day2.eeg",
+    "path": "/suj18_l5nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj18_l5nap_day2.eeg",
+    "etag": "5cc4967a5d01b9577ad7f1a84c0da3d2a77fa1409c3a4cd531dd770c0b244ed3",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-11T17:31:56.000Z",
+    "modified_utc": "2015-11-11T17:31:56+00:00",
+    "created_utc": "2016-08-05T03:25:44+00:00",
+    "size": "462182400",
+    "sizeInt": 462182400,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l5nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l5nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l5nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l5nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj18_l5nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333049",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CQnY2Nkl5MWZ1UTg/view?usp=drivesdk",
+     "hashes": {
+      "md5": "f808eda66105fb79bff73c5fd12056be"
+     }
+    },
+    "kind": "file",
+    "name": "suj18_l5nap_day2.vmrk",
+    "path": "/suj18_l5nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj18_l5nap_day2.vmrk",
+    "etag": "0d4dd54f30cd1e80f054157ba6f8721f3b9aadf2f9a752b8c062508d44ba0673",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-11T17:01:52.000Z",
+    "modified_utc": "2015-11-11T17:01:52+00:00",
+    "created_utc": "2016-08-05T03:40:34+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l5nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l5nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l5nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l5nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj18_l5nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333001",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CbjVXWEM5cXhsT1E/view?usp=drivesdk",
+     "hashes": {
+      "md5": "51ed444c3d5355ce4cb1d792e4b965c1"
+     }
+    },
+    "kind": "file",
+    "name": "suj18_l5nap_day2.vhdr",
+    "path": "/suj18_l5nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj18_l5nap_day2.vhdr",
+    "etag": "f595f637cd2d145fe56a13329f7ceb746b9c653f81460414619ce34aa44b4695",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-11T17:01:50.000Z",
+    "modified_utc": "2015-11-11T17:01:50+00:00",
+    "created_utc": "2016-08-05T03:25:45+00:00",
+    "size": "3231",
+    "sizeInt": 3231,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l5nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l5nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l5nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l5nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj20_l5nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333031",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CSXVOZ2xxQk5ueWs/view?usp=drivesdk",
+     "hashes": {
+      "md5": "d896d42597ef99a731256cc995e20ca9"
+     }
+    },
+    "kind": "file",
+    "name": "suj20_l5nap_day1.eeg",
+    "path": "/suj20_l5nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj20_l5nap_day1.eeg",
+    "etag": "e322db33818ee599add5ac0be0fcf70817bb80bb6a3256203f5f5cfbdb9a48b1",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-10T17:34:20.000Z",
+    "modified_utc": "2015-11-10T17:34:20+00:00",
+    "created_utc": "2016-08-05T03:40:03+00:00",
+    "size": "467315200",
+    "sizeInt": 467315200,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l5nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l5nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l5nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l5nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj20_l5nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333037",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CYklzdHJJZWQ1Ujg/view?usp=drivesdk",
+     "hashes": {
+      "md5": "7bdb6c3e2c8c927a32f67ba9dd019e75"
+     }
+    },
+    "kind": "file",
+    "name": "suj20_l5nap_day1.vmrk",
+    "path": "/suj20_l5nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj20_l5nap_day1.vmrk",
+    "etag": "48220bb5ab9adce193e53b008757fa14428601dc4706b54263ab24b6ecc98c34",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-10T17:03:56.000Z",
+    "modified_utc": "2015-11-10T17:03:56+00:00",
+    "created_utc": "2016-08-05T03:40:05+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l5nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l5nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l5nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l5nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj20_l5nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333034",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CYTRlZ0VLYXRpYTQ/view?usp=drivesdk",
+     "hashes": {
+      "md5": "7c35ed057344fa13db1122df16dbe971"
+     }
+    },
+    "kind": "file",
+    "name": "suj20_l5nap_day1.vhdr",
+    "path": "/suj20_l5nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj20_l5nap_day1.vhdr",
+    "etag": "f3f210a1aa91e106c2e426884d94e1d0b626bbae961f737c18f79419b334757d",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-10T17:03:54.000Z",
+    "modified_utc": "2015-11-10T17:03:54+00:00",
+    "created_utc": "2016-08-05T03:40:04+00:00",
+    "size": "3240",
+    "sizeInt": 3240,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l5nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l5nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l5nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj20_l5nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj17_l2nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332971",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CZjBoWWpQVG5Rems/view?usp=drivesdk",
+     "hashes": {
+      "md5": "f1c46eff40144b8a28b3f1f0e31290ce"
+     }
+    },
+    "kind": "file",
+    "name": "suj17_l2nap_day2.eeg",
+    "path": "/suj17_l2nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj17_l2nap_day2.eeg",
+    "etag": "142687d992417e46d450efe88fe861f934d6d6f9978d589711bfad565b6669a5",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-09T21:47:00.000Z",
+    "modified_utc": "2015-11-09T21:47:00+00:00",
+    "created_utc": "2016-08-05T03:13:08+00:00",
+    "size": "463820800",
+    "sizeInt": 463820800,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l2nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l2nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l2nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l2nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj17_l2nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332974",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CQ0NvM3JSckdVUkk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "1c4de505ce1fa43cf183775f777ae0d6"
+     }
+    },
+    "kind": "file",
+    "name": "suj17_l2nap_day2.vmrk",
+    "path": "/suj17_l2nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj17_l2nap_day2.vmrk",
+    "etag": "91b39bdb0d2c355b1c8ed98aae681db92e716104b8bbe731191322a853ce0fdb",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-09T21:16:50.000Z",
+    "modified_utc": "2015-11-09T21:16:50+00:00",
+    "created_utc": "2016-08-05T03:13:13+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l2nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l2nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l2nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l2nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj17_l2nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332977",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CNjM3dGY1Y3dZWnM/view?usp=drivesdk",
+     "hashes": {
+      "md5": "1f0380dd064cae90f2a03591f07cddf4"
+     }
+    },
+    "kind": "file",
+    "name": "suj17_l2nap_day2.vhdr",
+    "path": "/suj17_l2nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj17_l2nap_day2.vhdr",
+    "etag": "ea510426a464f706cb36e8e572c456c5c1cd277fb5c8ab6c7da88207c5770655",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-09T21:16:48.000Z",
+    "modified_utc": "2015-11-09T21:16:48+00:00",
+    "created_utc": "2016-08-05T03:13:14+00:00",
+    "size": "3235",
+    "sizeInt": 3235,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l2nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l2nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l2nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l2nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj19_l5nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333013",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CZWpSemRGUGtxQTg/view?usp=drivesdk",
+     "hashes": {
+      "md5": "816b5358cf4d39700e17a30af9dc9f45"
+     }
+    },
+    "kind": "file",
+    "name": "suj19_l5nap_day2.eeg",
+    "path": "/suj19_l5nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj19_l5nap_day2.eeg",
+    "etag": "b2de3249abe2e1c5562c173276d0030823a2ee8e4ab1a7a79c2a7ae9339b43af",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-06T17:31:48.000Z",
+    "modified_utc": "2015-11-06T17:31:48+00:00",
+    "created_utc": "2016-08-05T03:30:48+00:00",
+    "size": "461478400",
+    "sizeInt": 461478400,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l5nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l5nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l5nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l5nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj19_l5nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333016",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CR0FWRW9wTmRYYUE/view?usp=drivesdk",
+     "hashes": {
+      "md5": "e92d7019a358c8e0d59397463fa142dc"
+     }
+    },
+    "kind": "file",
+    "name": "suj19_l5nap_day2.vmrk",
+    "path": "/suj19_l5nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj19_l5nap_day2.vmrk",
+    "etag": "d68176a2025545b2ccbeea73f3215536844a856a431dc95f6959135ee71eee12",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-06T17:01:46.000Z",
+    "modified_utc": "2015-11-06T17:01:46+00:00",
+    "created_utc": "2016-08-05T03:30:49+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l5nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l5nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l5nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l5nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj19_l5nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333019",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CWEZ4MWQxTTlwa1E/view?usp=drivesdk",
+     "hashes": {
+      "md5": "8b5a8e6e882e53c9c0406b8093c6f6ff"
+     }
+    },
+    "kind": "file",
+    "name": "suj19_l5nap_day2.vhdr",
+    "path": "/suj19_l5nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj19_l5nap_day2.vhdr",
+    "etag": "93c40d9f5e3b77340e92aae67f44943e2db569ea1588b13e5831fa744c5e7033",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-06T17:01:44.000Z",
+    "modified_utc": "2015-11-06T17:01:44+00:00",
+    "created_utc": "2016-08-05T03:30:50+00:00",
+    "size": "3219",
+    "sizeInt": 3219,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l5nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l5nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l5nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l5nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj19_l2nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333510",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CNmxvMDZjbkRiaVk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "419a2c5fd2c9ea65ec7bc4f4b648f18c"
+     }
+    },
+    "kind": "file",
+    "name": "suj19_l2nap_day1.eeg",
+    "path": "/suj19_l2nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj19_l2nap_day1.eeg",
+    "etag": "1ba6d234f62bd1c79aebb8a052ec3018bdd2799acb0df3d671517a5066f8c075",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-05T17:47:16.000Z",
+    "modified_utc": "2015-11-05T17:47:16+00:00",
+    "created_utc": "2016-08-09T00:38:52+00:00",
+    "size": "462400000",
+    "sizeInt": 462400000,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l2nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l2nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l2nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l2nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj19_l2nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333007",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CY0xNaDFZRTRicGs/view?usp=drivesdk",
+     "hashes": {
+      "md5": "df142eb59def77a0bdc0bdfe5782e4b2"
+     }
+    },
+    "kind": "file",
+    "name": "suj19_l2nap_day1.vmrk",
+    "path": "/suj19_l2nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj19_l2nap_day1.vmrk",
+    "etag": "892c967e9e037b715d10d529ceed54b89ccf193c81fdfe61d8368027d7b5900b",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-05T17:17:10.000Z",
+    "modified_utc": "2015-11-05T17:17:10+00:00",
+    "created_utc": "2016-08-05T03:29:37+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l2nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l2nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l2nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l2nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj19_l2nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333010",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CQjRZQnJpRWxmZVE/view?usp=drivesdk",
+     "hashes": {
+      "md5": "3199a12c0b41880837b9236d145dc8bd"
+     }
+    },
+    "kind": "file",
+    "name": "suj19_l2nap_day1.vhdr",
+    "path": "/suj19_l2nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj19_l2nap_day1.vhdr",
+    "etag": "b71dcfc955b08c3df1e62c3d99a4ce4fe8ad50f939282abcab2f26c3e10c6a3e",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-05T17:17:08.000Z",
+    "modified_utc": "2015-11-05T17:17:08+00:00",
+    "created_utc": "2016-08-05T03:29:37+00:00",
+    "size": "3226",
+    "sizeInt": 3226,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l2nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l2nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l2nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj19_l2nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj18_l2nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332980",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13Ca01uSGRycmlMZlk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "c2267b0493e4998b1d44b44086a422bd"
+     }
+    },
+    "kind": "file",
+    "name": "suj18_l2nap_day1.eeg",
+    "path": "/suj18_l2nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj18_l2nap_day1.eeg",
+    "etag": "8c5c220383569a568dc12c46a9644cc1b2309c43540675efec156db0d9684da9",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-04T17:53:12.000Z",
+    "modified_utc": "2015-11-04T17:53:12+00:00",
+    "created_utc": "2016-08-05T03:18:43+00:00",
+    "size": "461619200",
+    "sizeInt": 461619200,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l2nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l2nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l2nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l2nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj18_l2nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332983",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CejAxQ2NZZERQOWM/view?usp=drivesdk",
+     "hashes": {
+      "md5": "e9fbe53a6f99ac3459ca5b1281d039de"
+     }
+    },
+    "kind": "file",
+    "name": "suj18_l2nap_day1.vmrk",
+    "path": "/suj18_l2nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj18_l2nap_day1.vmrk",
+    "etag": "dd23725d991fa0aa48090ebe89aac13b0aa681ded20964847d65e876af4b076a",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-04T17:26:42.000Z",
+    "modified_utc": "2015-11-04T17:26:42+00:00",
+    "created_utc": "2016-08-05T03:18:48+00:00",
+    "size": "505",
+    "sizeInt": 505,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l2nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l2nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l2nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l2nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj18_l2nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332986",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13Cd19QcXFPaXVLUTA/view?usp=drivesdk",
+     "hashes": {
+      "md5": "385fb2c1afd98473298117f7fdd88550"
+     }
+    },
+    "kind": "file",
+    "name": "suj18_l2nap_day1.vhdr",
+    "path": "/suj18_l2nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj18_l2nap_day1.vhdr",
+    "etag": "d3e7cb81bf5698fcd624f15589007de59f96d819a713954724606da98eabc42f",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-04T17:23:10.000Z",
+    "modified_utc": "2015-11-04T17:23:10+00:00",
+    "created_utc": "2016-08-05T03:18:51+00:00",
+    "size": "3242",
+    "sizeInt": 3242,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l2nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l2nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l2nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj18_l2nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/Suj15_l5nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332938",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CMGhEMHNMMXdrMWc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "1ca899caec582554fd7c1411ec41d516"
+     }
+    },
+    "kind": "file",
+    "name": "Suj15_l5nap_day2.eeg",
+    "path": "/Suj15_l5nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/Suj15_l5nap_day2.eeg",
+    "etag": "1755d3a89c33cff3f5627ccd27665ef15199716f69abecbf7b2b0e1c8523e8a5",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-03T18:20:44.000Z",
+    "modified_utc": "2015-11-03T18:20:44+00:00",
+    "created_utc": "2016-08-05T02:58:47+00:00",
+    "size": "462169600",
+    "sizeInt": 462169600,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/Suj15_l5nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/Suj15_l5nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/Suj15_l5nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/Suj15_l5nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/Suj15_l5nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332944",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CSnhlX2FZQldNUUE/view?usp=drivesdk",
+     "hashes": {
+      "md5": "95464c965b495cdf9c707b8104a76890"
+     }
+    },
+    "kind": "file",
+    "name": "Suj15_l5nap_day2.vmrk",
+    "path": "/Suj15_l5nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/Suj15_l5nap_day2.vmrk",
+    "etag": "3dbd328e4a1532e170838f1f67143a7dbec8dea5a5fc39ad00da5779dfdb0119",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-03T17:50:38.000Z",
+    "modified_utc": "2015-11-03T17:50:38+00:00",
+    "created_utc": "2016-08-05T02:58:49+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/Suj15_l5nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/Suj15_l5nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/Suj15_l5nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/Suj15_l5nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/Suj15_l5nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332941",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CLWY0RXVwU2hmVk0/view?usp=drivesdk",
+     "hashes": {
+      "md5": "15d739ecdc3b277365536b6d69a68fa8"
+     }
+    },
+    "kind": "file",
+    "name": "Suj15_l5nap_day2.vhdr",
+    "path": "/Suj15_l5nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/Suj15_l5nap_day2.vhdr",
+    "etag": "d8c4a2ef2b74e994c66cdc7c1a3a72c2916e84be197df91ce70088f80e8d6b91",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-03T17:50:38.000Z",
+    "modified_utc": "2015-11-03T17:50:38+00:00",
+    "created_utc": "2016-08-05T02:58:48+00:00",
+    "size": "3232",
+    "sizeInt": 3232,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/Suj15_l5nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/Suj15_l5nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/Suj15_l5nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/Suj15_l5nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj17_l5nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332989",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CZXFlWkNMNnVPemc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "e83786f9eaa50f91da6fe7f84eef23dd"
+     }
+    },
+    "kind": "file",
+    "name": "suj17_l5nap_day1.eeg",
+    "path": "/suj17_l5nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj17_l5nap_day1.eeg",
+    "etag": "82e20c7e9db6bcae787d93ecd916234b457d3e50e1acd73c66a0d251a20f7c87",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-02T21:35:48.000Z",
+    "modified_utc": "2015-11-02T21:35:48+00:00",
+    "created_utc": "2016-08-05T03:19:07+00:00",
+    "size": "462067200",
+    "sizeInt": 462067200,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l5nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l5nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l5nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l5nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj17_l5nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332992",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CbXdxdHR2Wk42NVk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "bc16a176a4a3f557cc4b197caaa9fde5"
+     }
+    },
+    "kind": "file",
+    "name": "suj17_l5nap_day1.vmrk",
+    "path": "/suj17_l5nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj17_l5nap_day1.vmrk",
+    "etag": "fecc0a93ffbdd21c432222648b94b79bdc873958a5c84499740cfa26dc52231f",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-02T21:05:42.000Z",
+    "modified_utc": "2015-11-02T21:05:42+00:00",
+    "created_utc": "2016-08-05T03:19:13+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l5nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l5nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l5nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l5nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj17_l5nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332995",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CQndyV2hURUZ4QjQ/view?usp=drivesdk",
+     "hashes": {
+      "md5": "83855059dc2076bdbdd49c9f746182c3"
+     }
+    },
+    "kind": "file",
+    "name": "suj17_l5nap_day1.vhdr",
+    "path": "/suj17_l5nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj17_l5nap_day1.vhdr",
+    "etag": "b50460b8f4c754ef841948f0d38c9d95c8dd1a7361d4ce5eff53639b8cd89a8b",
+    "contentType": "application/octet-stream",
+    "modified": "2015-11-02T21:05:42.000Z",
+    "modified_utc": "2015-11-02T21:05:42+00:00",
+    "created_utc": "2016-08-05T03:19:15+00:00",
+    "size": "3239",
+    "sizeInt": 3239,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l5nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l5nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l5nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj17_l5nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj16_l2nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332965",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13Cdzhjb1ozeXN2WVk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "1c13512934bd9fd9f51ccd7d8ef813f7"
+     }
+    },
+    "kind": "file",
+    "name": "suj16_l2nap_day2.eeg",
+    "path": "/suj16_l2nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj16_l2nap_day2.eeg",
+    "etag": "7d952a97d23431002f0916f377daacfb9187cb2f7e1e75fa382af5b428275d08",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-29T20:45:04.000Z",
+    "modified_utc": "2015-10-29T20:45:04+00:00",
+    "created_utc": "2016-08-05T03:08:58+00:00",
+    "size": "462438400",
+    "sizeInt": 462438400,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l2nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l2nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l2nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l2nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj16_l2nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332968",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13Celh2b0liSzB5MzA/view?usp=drivesdk",
+     "hashes": {
+      "md5": "ba0f385eae213c6c6e3af792483b40d8"
+     }
+    },
+    "kind": "file",
+    "name": "suj16_l2nap_day2.vmrk",
+    "path": "/suj16_l2nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj16_l2nap_day2.vmrk",
+    "etag": "b1c7acd87eec799f9c6bc69538958a2814e999e867a5068b0340c6effee66a86",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-29T20:15:00.000Z",
+    "modified_utc": "2015-10-29T20:15:00+00:00",
+    "created_utc": "2016-08-05T03:09:00+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l2nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l2nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l2nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l2nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj16_l2nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333052",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CZW9DZHFJMjB2T0E/view?usp=drivesdk",
+     "hashes": {
+      "md5": "be6cecc46a99bbe5be613abd114b4dc1"
+     }
+    },
+    "kind": "file",
+    "name": "suj16_l2nap_day2.vhdr",
+    "path": "/suj16_l2nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj16_l2nap_day2.vhdr",
+    "etag": "8014e47b5aab127c2c0d3ec58adb05a2e70e80849f2aff2599a25ce575e5804a",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-29T20:14:58.000Z",
+    "modified_utc": "2015-10-29T20:14:58+00:00",
+    "created_utc": "2016-08-05T03:40:35+00:00",
+    "size": "3220",
+    "sizeInt": 3220,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l2nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l2nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l2nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l2nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj14_l2nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332920",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CM1FpSTJxWW1HTnM/view?usp=drivesdk",
+     "hashes": {
+      "md5": "dc843510490db04cf4ddf092cdb1e456"
+     }
+    },
+    "kind": "file",
+    "name": "suj14_l2nap_day2.eeg",
+    "path": "/suj14_l2nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj14_l2nap_day2.eeg",
+    "etag": "df67e71bcc6a57f1180dc2ac8b20e2a20317d5fa6bfec630d233f12088c5f82a",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-29T16:41:24.000Z",
+    "modified_utc": "2015-10-29T16:41:24+00:00",
+    "created_utc": "2016-08-05T02:50:30+00:00",
+    "size": "461683200",
+    "sizeInt": 461683200,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l2nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l2nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l2nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l2nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj14_l2nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332926",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CWXlaRjRRalUwbjQ/view?usp=drivesdk",
+     "hashes": {
+      "md5": "ace3deee912e28673ca69795978c79d0"
+     }
+    },
+    "kind": "file",
+    "name": "suj14_l2nap_day2.vmrk",
+    "path": "/suj14_l2nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj14_l2nap_day2.vmrk",
+    "etag": "3ebcec466dd37734c7d52e522ba7ca55336558808a01bbe79d4cd103c81ce5eb",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-29T16:11:24.000Z",
+    "modified_utc": "2015-10-29T16:11:24+00:00",
+    "created_utc": "2016-08-05T02:50:32+00:00",
+    "size": "503",
+    "sizeInt": 503,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l2nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l2nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l2nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l2nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj14_l2nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332923",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CdDQ5WUVRcEFiMjg/view?usp=drivesdk",
+     "hashes": {
+      "md5": "23326d3856bccfff805035edda83efaa"
+     }
+    },
+    "kind": "file",
+    "name": "suj14_l2nap_day2.vhdr",
+    "path": "/suj14_l2nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj14_l2nap_day2.vhdr",
+    "etag": "273da2e47d0b5756a2805944452e482f09459649dc9c35cf1f0d2dba9246a41b",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-29T16:11:20.000Z",
+    "modified_utc": "2015-10-29T16:11:20+00:00",
+    "created_utc": "2016-08-05T02:50:31+00:00",
+    "size": "3231",
+    "sizeInt": 3231,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l2nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l2nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l2nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l2nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj16_l5nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333388",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CUGxKb2Rtb0kyTm8/view?usp=drivesdk",
+     "hashes": {
+      "md5": "8d03fbfdf1ac41e3a5b4431877bad8e9"
+     }
+    },
+    "kind": "file",
+    "name": "suj16_l5nap_day1.eeg",
+    "path": "/suj16_l5nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj16_l5nap_day1.eeg",
+    "etag": "1ea0a26b5b640a237c7c8d586b57648849b8906d29f08383fc15faa940f5704b",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-28T20:45:48.000Z",
+    "modified_utc": "2015-10-28T20:45:48+00:00",
+    "created_utc": "2016-08-09T00:22:32+00:00",
+    "size": "462336000",
+    "sizeInt": 462336000,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l5nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l5nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l5nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l5nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj16_l5nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332959",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CV09RUXFPaG1NZDA/view?usp=drivesdk",
+     "hashes": {
+      "md5": "aa2622e05ee536a1726d0584bfae256f"
+     }
+    },
+    "kind": "file",
+    "name": "suj16_l5nap_day1.vmrk",
+    "path": "/suj16_l5nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj16_l5nap_day1.vmrk",
+    "etag": "857b352d291034d50ae99d3a5021a30c0115a6d4ae43634474efa75ee1dd493a",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-28T20:34:20.000Z",
+    "modified_utc": "2015-10-28T20:34:20+00:00",
+    "created_utc": "2016-08-05T03:08:00+00:00",
+    "size": "599",
+    "sizeInt": 599,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l5nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l5nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l5nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l5nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj16_l5nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332962",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CeEcxYi1zVjhaWG8/view?usp=drivesdk",
+     "hashes": {
+      "md5": "1b5c27a6a4246f91222e233d98bd3a20"
+     }
+    },
+    "kind": "file",
+    "name": "suj16_l5nap_day1.vhdr",
+    "path": "/suj16_l5nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj16_l5nap_day1.vhdr",
+    "etag": "f8359a2a477008ba804d6fef9e4da79f61de3ea3cebc483667e59ea1796cfbc8",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-28T20:15:42.000Z",
+    "modified_utc": "2015-10-28T20:15:42+00:00",
+    "created_utc": "2016-08-05T03:08:02+00:00",
+    "size": "3219",
+    "sizeInt": 3219,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l5nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l5nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l5nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj16_l5nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj15_l2nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333383",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CNVplbXBBU2dfUFk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "f965ae12a7c8c13a97838cdefb7ee677"
+     }
+    },
+    "kind": "file",
+    "name": "suj15_l2nap_day1.eeg",
+    "path": "/suj15_l2nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj15_l2nap_day1.eeg",
+    "etag": "af8f157ae1de05e20f2535bcf62a9e4976ca81fe363c1b67bf0c68b4d8d0c83a",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-27T17:00:00.000Z",
+    "modified_utc": "2015-10-27T17:00:00+00:00",
+    "created_utc": "2016-08-09T00:20:17+00:00",
+    "size": "461478400",
+    "sizeInt": 461478400,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj15_l2nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj15_l2nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj15_l2nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj15_l2nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj15_l2nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332950",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13COExFMmZoVW9hckU/view?usp=drivesdk",
+     "hashes": {
+      "md5": "0fb4c6018080904776477f89e6a1688d"
+     }
+    },
+    "kind": "file",
+    "name": "suj15_l2nap_day1.vmrk",
+    "path": "/suj15_l2nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj15_l2nap_day1.vmrk",
+    "etag": "8897aa74519e9399d6fb4d8df834f533c7e20a2665f1f923315d1b3de6c5993f",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-27T16:30:00.000Z",
+    "modified_utc": "2015-10-27T16:30:00+00:00",
+    "created_utc": "2016-08-05T03:00:22+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj15_l2nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj15_l2nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj15_l2nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj15_l2nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj15_l2nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332953",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CcGNyYjZqc21LdWM/view?usp=drivesdk",
+     "hashes": {
+      "md5": "6154286c272590d8a2a2d14041dd4aac"
+     }
+    },
+    "kind": "file",
+    "name": "suj15_l2nap_day1.vhdr",
+    "path": "/suj15_l2nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj15_l2nap_day1.vhdr",
+    "etag": "9b69a99e1d8a1378fb1644e90aca0a4c12cb8852a592c3ea03165b81b153c974",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-27T16:29:58.000Z",
+    "modified_utc": "2015-10-27T16:29:58+00:00",
+    "created_utc": "2016-08-05T03:00:23+00:00",
+    "size": "3231",
+    "sizeInt": 3231,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj15_l2nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj15_l2nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj15_l2nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj15_l2nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj14_l5nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332929",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CUHlUNnpzcWs2LVU/view?usp=drivesdk",
+     "hashes": {
+      "md5": "3b1720725aeddc58b12326dd0b5849f7"
+     }
+    },
+    "kind": "file",
+    "name": "suj14_l5nap_day1.eeg",
+    "path": "/suj14_l5nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj14_l5nap_day1.eeg",
+    "etag": "6e18225bda0923963b05aafb96ed4066fadc1774aebe5cd546e49b2724086784",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-22T16:40:48.000Z",
+    "modified_utc": "2015-10-22T16:40:48+00:00",
+    "created_utc": "2016-08-05T02:58:04+00:00",
+    "size": "462515200",
+    "sizeInt": 462515200,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l5nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l5nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l5nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l5nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj14_l5nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332935",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13Cd1lnbHpTX240MVU/view?usp=drivesdk",
+     "hashes": {
+      "md5": "2380face3b092e26510f9657b78279d1"
+     }
+    },
+    "kind": "file",
+    "name": "suj14_l5nap_day1.vmrk",
+    "path": "/suj14_l5nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj14_l5nap_day1.vmrk",
+    "etag": "60a83998080a4324df86f3a065f7265a6ce0b3cf2193bfab727dfd89ea6aa3fc",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-22T16:24:30.000Z",
+    "modified_utc": "2015-10-22T16:24:30+00:00",
+    "created_utc": "2016-08-05T02:58:07+00:00",
+    "size": "963",
+    "sizeInt": 963,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l5nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l5nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l5nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l5nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj14_l5nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332932",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CVmE4N3BJdVFtc0E/view?usp=drivesdk",
+     "hashes": {
+      "md5": "02f90306c84781018e6831a5b104edf8"
+     }
+    },
+    "kind": "file",
+    "name": "suj14_l5nap_day1.vhdr",
+    "path": "/suj14_l5nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj14_l5nap_day1.vhdr",
+    "etag": "d3d2e9c4b3cbf9700adea664d58dfd1d4de651e63115f0194c98aa65c3b9543b",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-22T16:10:40.000Z",
+    "modified_utc": "2015-10-22T16:10:40+00:00",
+    "created_utc": "2016-08-05T02:58:06+00:00",
+    "size": "3225",
+    "sizeInt": 3225,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l5nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l5nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l5nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj14_l5nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj13_l2nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332897",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CcUl6Q3huNjhFYmc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "16cdb1d3b672363bdae6b27020b86a84"
+     }
+    },
+    "kind": "file",
+    "name": "suj13_l2nap_day2.eeg",
+    "path": "/suj13_l2nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj13_l2nap_day2.eeg",
+    "etag": "7de3945f8dccf38a56102670c59dce0e227004cdac787667ee006a51177a1333",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-21T16:19:38.000Z",
+    "modified_utc": "2015-10-21T16:19:38+00:00",
+    "created_utc": "2016-08-05T02:41:04+00:00",
+    "size": "462105600",
+    "sizeInt": 462105600,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l2nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l2nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l2nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l2nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj13_l2nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332900",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CdlM5V2hUSmtBR00/view?usp=drivesdk",
+     "hashes": {
+      "md5": "682377266e62b63a234ef835a927086c"
+     }
+    },
+    "kind": "file",
+    "name": "suj13_l2nap_day2.vmrk",
+    "path": "/suj13_l2nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj13_l2nap_day2.vmrk",
+    "etag": "1e0dea427261ae33efd4b1298d66e2dfe3925f53a4d991ccdc0a9e10259b99dd",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-21T15:49:32.000Z",
+    "modified_utc": "2015-10-21T15:49:32+00:00",
+    "created_utc": "2016-08-05T02:41:06+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l2nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l2nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l2nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l2nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj13_l2nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332911",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CZ2xGUk9DNVJhbEU/view?usp=drivesdk",
+     "hashes": {
+      "md5": "acb4a958753204f8e00de3d33659a8e2"
+     }
+    },
+    "kind": "file",
+    "name": "suj13_l2nap_day2.vhdr",
+    "path": "/suj13_l2nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj13_l2nap_day2.vhdr",
+    "etag": "3012130c14fcca818c1bd0f4aadb750e289b4fa7d3b486ec04ef897577413bf9",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-21T15:49:32.000Z",
+    "modified_utc": "2015-10-21T15:49:32+00:00",
+    "created_utc": "2016-08-05T02:44:13+00:00",
+    "size": "3221",
+    "sizeInt": 3221,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l2nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l2nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l2nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l2nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj13_l5nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "333058",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CZFQtQ2NuaFZNdFU/view?usp=drivesdk",
+     "hashes": {
+      "md5": "95795dd1deee381213658c0b8afc6ccf"
+     }
+    },
+    "kind": "file",
+    "name": "suj13_l5nap_day1.eeg",
+    "path": "/suj13_l5nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj13_l5nap_day1.eeg",
+    "etag": "48666c3d95917a292ef0f8cc8663f9d785d37a25532311f15367ba84cc3103d5",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-20T16:29:02.000Z",
+    "modified_utc": "2015-10-20T16:29:02+00:00",
+    "created_utc": "2016-08-05T03:47:14+00:00",
+    "size": "461350400",
+    "sizeInt": 461350400,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l5nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l5nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l5nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l5nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj13_l5nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332903",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CakM5bWNhbk9yWlk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "846be2c1fb20676194e95c5e3b9d6f3f"
+     }
+    },
+    "kind": "file",
+    "name": "suj13_l5nap_day1.vmrk",
+    "path": "/suj13_l5nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj13_l5nap_day1.vmrk",
+    "etag": "9231b40830de5090192afca6f0a90e9e8ae3bfd1f66a86188a03b6fdc9d1ef5c",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-20T15:59:02.000Z",
+    "modified_utc": "2015-10-20T15:59:02+00:00",
+    "created_utc": "2016-08-05T02:41:07+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l5nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l5nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l5nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l5nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj13_l5nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332908",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CNEczZzBjYThVYVk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "d37b5d24586b1b0d484c5e718c36a772"
+     }
+    },
+    "kind": "file",
+    "name": "suj13_l5nap_day1.vhdr",
+    "path": "/suj13_l5nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj13_l5nap_day1.vhdr",
+    "etag": "95575c2791c9118c395cd8a0773ab9711ef7dc0157fd72c38b48baf6fd6dd4c9",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-20T15:59:00.000Z",
+    "modified_utc": "2015-10-20T15:59:00+00:00",
+    "created_utc": "2016-08-05T02:44:13+00:00",
+    "size": "3220",
+    "sizeInt": 3220,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l5nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l5nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l5nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj13_l5nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj11_l2nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332909",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CZnUwbW96YlhGYlE/view?usp=drivesdk",
+     "hashes": {
+      "md5": "8df00b8389dfaaeedc53b955ab460fe4"
+     }
+    },
+    "kind": "file",
+    "name": "suj11_l2nap_day2.eeg",
+    "path": "/suj11_l2nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj11_l2nap_day2.eeg",
+    "etag": "467a2601c0490a4497b05df46851d8a9b2980c99c9955646633baee18d30cdee",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-15T16:56:42.000Z",
+    "modified_utc": "2015-10-15T16:56:42+00:00",
+    "created_utc": "2016-08-05T02:25:53+00:00",
+    "size": "462348800",
+    "sizeInt": 462348800,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l2nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l2nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l2nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l2nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj11_l2nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332873",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CeVV5RHJTNkw1RFE/view?usp=drivesdk",
+     "hashes": {
+      "md5": "35dab362cc158e407b9f48721b47fd43"
+     }
+    },
+    "kind": "file",
+    "name": "suj11_l2nap_day2.vmrk",
+    "path": "/suj11_l2nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj11_l2nap_day2.vmrk",
+    "etag": "6765bc07082a35f30b558ab632ec2f5e03f1508fdcad777bee07f0de11ff7478",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-15T16:37:14.000Z",
+    "modified_utc": "2015-10-15T16:37:14+00:00",
+    "created_utc": "2016-08-05T02:27:02+00:00",
+    "size": "595",
+    "sizeInt": 595,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l2nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l2nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l2nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l2nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj11_l2nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332870",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CUnNiWkdJV1paMjg/view?usp=drivesdk",
+     "hashes": {
+      "md5": "19b2ae2b57ef250417fce9ccbed7d568"
+     }
+    },
+    "kind": "file",
+    "name": "suj11_l2nap_day2.vhdr",
+    "path": "/suj11_l2nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj11_l2nap_day2.vhdr",
+    "etag": "3a13877f136edc133667993e0eb20b3a6b986df42b7dea599d1a4be91e4e1f76",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-15T16:26:36.000Z",
+    "modified_utc": "2015-10-15T16:26:36+00:00",
+    "created_utc": "2016-08-05T02:27:00+00:00",
+    "size": "3225",
+    "sizeInt": 3225,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l2nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l2nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l2nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l2nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj12_l5nap_day2.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332914",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CN29nU3VmZnQ2b1E/view?usp=drivesdk",
+     "hashes": {
+      "md5": "02684577560cd7d135c79456cbf2c345"
+     }
+    },
+    "kind": "file",
+    "name": "suj12_l5nap_day2.eeg",
+    "path": "/suj12_l5nap_day2.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj12_l5nap_day2.eeg",
+    "etag": "8b7efe30a3b53f6fa3053612365ea404f7397e91db2834123b534944676b058d",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-14T17:30:18.000Z",
+    "modified_utc": "2015-10-14T17:30:18+00:00",
+    "created_utc": "2016-08-05T02:48:59+00:00",
+    "size": "462566400",
+    "sizeInt": 462566400,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l5nap_day2.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l5nap_day2.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l5nap_day2.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l5nap_day2.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj12_l5nap_day2.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332917",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CT1oxdDhWZEgyYk0/view?usp=drivesdk",
+     "hashes": {
+      "md5": "a980bcbe5ebe4e4862f704ca18f366ad"
+     }
+    },
+    "kind": "file",
+    "name": "suj12_l5nap_day2.vmrk",
+    "path": "/suj12_l5nap_day2.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj12_l5nap_day2.vmrk",
+    "etag": "eafeb9929b041fcb70b2ceda12f07785b705d378a5c4d938c1803e6213fe7f06",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-14T17:00:12.000Z",
+    "modified_utc": "2015-10-14T17:00:12+00:00",
+    "created_utc": "2016-08-05T02:49:00+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l5nap_day2.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l5nap_day2.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l5nap_day2.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l5nap_day2.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj12_l5nap_day2.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332888",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CR0lOUTdJTHpmVFU/view?usp=drivesdk",
+     "hashes": {
+      "md5": "7f56d8422d2fb2a309c40c5671654c03"
+     }
+    },
+    "kind": "file",
+    "name": "suj12_l5nap_day2.vhdr",
+    "path": "/suj12_l5nap_day2.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj12_l5nap_day2.vhdr",
+    "etag": "6e129a907fd122debab7e62e4856cab4ad4b63a18c5140a53723ac0ebfbe58c4",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-14T17:00:10.000Z",
+    "modified_utc": "2015-10-14T17:00:10+00:00",
+    "created_utc": "2016-08-05T02:30:51+00:00",
+    "size": "3223",
+    "sizeInt": 3223,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l5nap_day2.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l5nap_day2.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l5nap_day2.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l5nap_day2.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj12_l2nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332882",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CaW5aYWw3WS1manc/view?usp=drivesdk",
+     "hashes": {
+      "md5": "018e19bd246589523fd2cfb16d8ac9e4"
+     }
+    },
+    "kind": "file",
+    "name": "suj12_l2nap_day1.vmrk",
+    "path": "/suj12_l2nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj12_l2nap_day1.vmrk",
+    "etag": "db59481c2505714b4567d785bee46b216d0f8d597cda143346ab1a22ce1b0a5c",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-13T17:52:08.000Z",
+    "modified_utc": "2015-10-13T17:52:08+00:00",
+    "created_utc": "2016-08-05T02:29:24+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l2nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l2nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l2nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l2nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj12_l2nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332885",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13Ca3YxR09uWWcwOG8/view?usp=drivesdk",
+     "hashes": {
+      "md5": "a79d23881b6bad5a1b92727eb46c09eb"
+     }
+    },
+    "kind": "file",
+    "name": "suj12_l2nap_day1.vhdr",
+    "path": "/suj12_l2nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj12_l2nap_day1.vhdr",
+    "etag": "87958f2db2e6a9b49a3892480893fae9e0f0271a3a8df322ceee5ea5ef84af50",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-13T17:52:06.000Z",
+    "modified_utc": "2015-10-13T17:52:06+00:00",
+    "created_utc": "2016-08-05T02:29:25+00:00",
+    "size": "3238",
+    "sizeInt": 3238,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l2nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l2nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l2nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj12_l2nap_day1.vhdr"
+   }
+  },
+  {
+   "id": "googledrive/suj11_l5nap_day1.eeg",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332891",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CY3A1ZHF0U0x3dFk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "8f20700fe7bf87b63a1bdbbb20661fb0"
+     }
+    },
+    "kind": "file",
+    "name": "suj11_l5nap_day1.eeg",
+    "path": "/suj11_l5nap_day1.eeg",
+    "provider": "googledrive",
+    "materialized": "/suj11_l5nap_day1.eeg",
+    "etag": "1871716b374e7f23276052a891414d4a493a2a2298e8c34af0c5091ef2677837",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-08T16:42:16.000Z",
+    "modified_utc": "2015-10-08T16:42:16+00:00",
+    "created_utc": "2016-08-05T02:39:03+00:00",
+    "size": "475840000",
+    "sizeInt": 475840000,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l5nap_day1.eeg",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l5nap_day1.eeg?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l5nap_day1.eeg",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l5nap_day1.eeg"
+   }
+  },
+  {
+   "id": "googledrive/suj11_l5nap_day1.vmrk",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332879",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CNnRxY3FTU2MtRUk/view?usp=drivesdk",
+     "hashes": {
+      "md5": "afa06c8c735685d74bf05da178f60903"
+     }
+    },
+    "kind": "file",
+    "name": "suj11_l5nap_day1.vmrk",
+    "path": "/suj11_l5nap_day1.vmrk",
+    "provider": "googledrive",
+    "materialized": "/suj11_l5nap_day1.vmrk",
+    "etag": "0e3e87d0a6fb1856db4af11098fcb0b6c0c059e42a7c51d6841729a30aed16cc",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-08T16:11:20.000Z",
+    "modified_utc": "2015-10-08T16:11:20+00:00",
+    "created_utc": "2016-08-05T02:28:56+00:00",
+    "size": "475",
+    "sizeInt": 475,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l5nap_day1.vmrk",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l5nap_day1.vmrk?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l5nap_day1.vmrk",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l5nap_day1.vmrk"
+   }
+  },
+  {
+   "id": "googledrive/suj11_l5nap_day1.vhdr",
+   "type": "files",
+   "attributes": {
+    "extra": {
+     "revisionId": "332876",
+     "webView": "https://drive.google.com/file/d/0B0_dINxBF13CRG1tUzNWZWpIQ1E/view?usp=drivesdk",
+     "hashes": {
+      "md5": "5e615a56b9c38f69c671a6906aa58072"
+     }
+    },
+    "kind": "file",
+    "name": "suj11_l5nap_day1.vhdr",
+    "path": "/suj11_l5nap_day1.vhdr",
+    "provider": "googledrive",
+    "materialized": "/suj11_l5nap_day1.vhdr",
+    "etag": "4a96ebecd316eb5f687795a6274ebd6206f2c87f5410308787c9d8cfa0fba76a",
+    "contentType": "application/octet-stream",
+    "modified": "2015-10-08T16:11:18.000Z",
+    "modified_utc": "2015-10-08T16:11:18+00:00",
+    "created_utc": "2016-08-05T02:28:54+00:00",
+    "size": "3218",
+    "sizeInt": 3218,
+    "resource": "chav7"
+   },
+   "links": {
+    "move": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l5nap_day1.vhdr",
+    "upload": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l5nap_day1.vhdr?kind=file",
+    "delete": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l5nap_day1.vhdr",
+    "download": "https://files.osf.io/v1/resources/chav7/providers/googledrive/suj11_l5nap_day1.vhdr"
+   }
+  }
+ ]
+}
