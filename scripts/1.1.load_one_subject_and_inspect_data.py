@@ -78,7 +78,7 @@ if __name__ == '__main__':
     raw_ref.apply_proj() # it might tell you it already has been re-referenced, but do it anyway
     
     # read standard montage - montage is important for visualization
-    montage = mne.channels.read_montage('standard_1020',ch_names=raw.ch_names);#montage.plot()
+    montage = mne.channels.make_standard_montage('standard_1020',);#montage.plot();#montage.plot()
     raw.set_montage(montage)
     # print some information about the data
     print(raw.info)
